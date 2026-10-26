@@ -11,6 +11,17 @@ A desktop application for recording expenses and reviewing spending by category.
 - Switch chart labels between percentages and dollar values.
 - Store expense records in an SQLite database.
 
+  ## Screenshots
+
+### Main Dashboard
+![Expense Tracker Main Dashboard](ExpenseTracker_01_MainDashboard.png)
+
+### Dollar Chart
+![Expense Tracker Dollar Chart](ExpenseTracker_02_DollarChart.png)
+
+### Date Search
+![Expense Tracker Date Search](ExpenseTracker_03_DateSearch.png)
+
 ## Technologies Used
 
 - Python
